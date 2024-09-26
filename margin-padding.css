@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.root{
+    background-color: rgb(249, 157, 18);
+    width: 300px;
+    height: 300px;  
+}
+.box-m {
+    background-color: rgb(255, 235, 205);
+    width: 200px;
+    height: 200px;
+}
+
+.box-m .box1{
+    background-color: rgba(246, 164, 42,0.5);
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    position: absolute;
+}
